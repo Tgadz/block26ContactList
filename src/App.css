@@ -1,0 +1,7 @@
+li {
+  border: black;
+  border-width: 2px;
+  border-style: double;
+  padding: 2px;
+  text-align: center;
+}
